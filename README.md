@@ -206,6 +206,7 @@ i=0.2(1.21)=0.24 mA
 
 # Video Explicativo 
 
+https://www.youtube.com/watch?v=4O-yzZYfXdI
 
 # Conclusiones 
 
