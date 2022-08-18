@@ -49,6 +49,15 @@ Resolver problemas de transitorios RL moderadamente complejos con las técnicas 
 
 # Marco Teorico 
 
+![cap7-8(26)](https://user-images.githubusercontent.com/105812540/185452563-3f08a1fd-928e-4860-86bc-17274950b2bf.jpg)
+
+![cap7-8(27)](https://user-images.githubusercontent.com/105812540/185452845-f51c705e-6d1d-476c-a133-b1a19bbf3161.jpg)
+
+![cap7-8(28)](https://user-images.githubusercontent.com/105812540/185452943-740e5d37-dcf8-4d84-a287-a729eeabaf6c.jpg)
+
+![cap7-8(29)](https://user-images.githubusercontent.com/105812540/185453021-9557cc17-fe5c-4c6f-a8b8-141c3650bbee.jpg)
+
+![cap7-8(30)](https://user-images.githubusercontent.com/105812540/185453087-b1f04de1-9af9-46f0-b3b7-6c4e26696394.jpg)
 
 
 
@@ -196,7 +205,6 @@ i=0.2(1.21)=0.24 mA
 
 
 # Video Explicativo 
-
 
 
 # Conclusiones 
